@@ -13,3 +13,33 @@
   max-width: 300px;
   margin: auto;
 }
+
+body{
+  background-image: url('walter.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h4{
+  color: white;
+}
+
+label{
+  color: white;
+}
+
+p{
+  color:white
+}
+
+button{
+  background-color: white;
+}
+
+label{
+  color: white;
+}
+
+div{
+  color: purple
+}

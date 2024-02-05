@@ -102,7 +102,7 @@ export default class TutorialsList extends Component {
             />
             <div className="input-group-append">
               <button
-                className="btn btn-outline-secondary"
+                className="btn btn-primary"
                 type="button"
                 onClick={this.searchTitle}
               >
